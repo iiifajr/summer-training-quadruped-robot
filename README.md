@@ -189,3 +189,13 @@ arduino-quadruped-robot/
 
 ```
 
+## 🌸 Lead Engineer Info
+
+* 👩🏻‍💻 **Lead Developer:** Eng. Fajr Aldajani
+* 🎓 **Context:** Advanced Microcontroller & Robotics Project
+* 🏅 **Project Status:** Fully Optimized & Validated ✨
+
+## 🔒 Intellectual Property & Academic Notice
+
+> **© 2026 Eng. Fajr Aldajani. All Rights Reserved.**
+> This repository and its core proprietary firmware architecture, UI assets, and custom logic are protected. Unauthorized duplication, redistribution, or academic plagiarism of this specific material is strictly prohibited.
